@@ -26,5 +26,5 @@ Siga esses passos para rodar o app no seu computador ou dispositivo:
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/flutter_calculadora.git
+git clone [hhttps://github.com/Bruno-Luiz-CNR/flutter_calculadora.git]
 cd flutter_calculadora
